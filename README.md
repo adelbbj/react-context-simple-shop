@@ -2,6 +2,26 @@
 
 I created this project for a company as well as for my own learning. It was built in a very short time and still has a lot of work to do.
 
+## How to Run
+
+to install dependencies
+
+```
+npm install
+```
+
+start project in dev mode
+
+```
+npm start
+```
+
+build
+
+```
+npm run build
+```
+
 ## Tech stack
 
 This project is built with modern frontend tools. if you are going to scale the project, i suggest you to use stronger state management libraries like Redux/MobX or everything is best at the time.
