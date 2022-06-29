@@ -1,0 +1,6 @@
+ul.products {
+  padding: 0px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+}
